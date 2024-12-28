@@ -127,8 +127,8 @@ The assessment revealed critical vulnerabilities in the Juice Shop application t
 
 ## Team Composition
 
-- **Abdullah Nasser Najeeb**
-- **Mahmoud Khamis Ali**
+- **Abdullah Nasser Najeeb  (__2305248__)** 
+- **Mahmoud Khamis Ali  (__2305210__)**  
 
 ---
 
