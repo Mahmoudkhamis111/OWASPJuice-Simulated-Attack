@@ -115,7 +115,7 @@ Brute forcing an admin password using the Hydra tool in Kali Linux involves syst
   hydra -L <userlist> -P <wordlist> <target> <protocol>
 ```
 ```
-[]()
+[](https://github.com/Mahmoudkhamis111/OWASPJuice-Simulated-Attack/blob/main/Screenshot%20(2).png?raw=true)
 
 
 
