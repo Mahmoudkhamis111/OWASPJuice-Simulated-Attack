@@ -87,6 +87,38 @@ The security assessment was limited to:
 ---
 
 
+#### 4. BruteForce an Admin Password
+# Brute Force on Admin Password Using Hydra Tool in Kali Linux
+
+## Introduction
+
+Brute forcing an admin password using the Hydra tool in Kali Linux involves systematically attempting various password combinations until the correct one is found. Hydra supports multiple protocols and can utilize wordlists to enhance the efficiency of the attack, making it a powerful tool for penetration testing.
+
+## Understanding Hydra and Its Usage
+
+### What is Hydra?
+- Hydra is an open-source login cracker that supports over 50 protocols, including SSH, FTP, HTTP, and more.
+- It is designed for penetration testing and ethical hacking, allowing security professionals to assess the strength of passwords.
+
+### Why Use Hydra?
+- Hydra can perform brute force attacks efficiently by trying multiple username and password combinations simultaneously.
+- It is particularly useful for testing the security of systems and identifying weak passwords.
+
+## Setting Up Hydra for Brute Force Attacks
+
+### Installation
+- Hydra comes pre-installed with Kali Linux, so no additional installation steps are required.
+
+### Basic Command Structure
+- The basic syntax for using Hydra is:
+  ```
+  hydra -L <userlist> -P <wordlist> <target> <protocol>
+```
+```
+[]()
+
+
+
 
 ## Consequences of Vulnerabilities
 
